@@ -1,0 +1,3 @@
+default:enforce
+audiocapturemgr:enforce
+lighttpd:enforce
